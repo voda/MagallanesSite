@@ -13,7 +13,7 @@
                     <li>"require": {</li>
                     <li>
                         <ul>
-                            <li>"andres-montanez/magallanes": "1.0.*"</li>
+                            <li>"andres-montanez/magallanes": "1.*"</li>
                         </ul>
                     </li>
                     <li>}</li>
@@ -22,6 +22,14 @@
             <li>}</li>
         </ul>
     </div>
+
+    <p>
+        Then we update the vendors:
+    </p>
+
+    <p class="bash">
+        <span class="command-mage">composer</span> update
+    </p>
 
     <br />
 
