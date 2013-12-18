@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>Magallanes &mdash; A Deployment Tool for PHP Applications</title>
+    <title>Magallanes &mdash; A PHP Deployment Tool</title>
     <link href="http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,700,300" rel="stylesheet" type="text/css" />
     <link href="/styles.css" rel="stylesheet" type="text/css" />
 </head>
@@ -43,7 +43,8 @@
 
             <h3>Extras</h3>
             <ul class="menu">
-                <li><a href="http://download.magephp.com/Mage-Cheat-Sheet-v1.x.pdf" target="_blank">Cheat Sheet</a></li>
+                <li><a href="http://download.magephp.com/Mage-Cheat-Sheet-v1.x.pdf" target="_blank">Cheat Sheet (Color)</a></li>
+                <li><a href="http://download.magephp.com/Mage-Cheat-Sheet-v1.x-PrintFriendly.pdf" target="_blank">Cheat Sheet (Print Friendly)</a></li>
                 <li><a href="http://api.magephp.com/1.0" target="_blank">API</a></li>
                 <li><a href="https://github.com/andres-montanez/Magallanes/" target="_blank">GitHub</a></li>
                 <li><a href="http://twitter.com/MagePHP" target="_blank">@MagePHP</a></li>
