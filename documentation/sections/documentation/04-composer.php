@@ -28,7 +28,7 @@
     </p>
 
     <p class="bash">
-        <span class="command-mage">composer</span> update
+        <span class="command-mage">php composer</span> update
     </p>
 
     <br />

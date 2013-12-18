@@ -1,2 +1,2 @@
 #!/bin/bash
-rsync -avz --delete . thor:/home/sites/magephp.com/
+rsync -avz --exclude=.git --delete . thor:/home/sites/magephp.com/
