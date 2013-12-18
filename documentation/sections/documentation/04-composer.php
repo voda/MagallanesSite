@@ -13,7 +13,7 @@
                     <li>"require": {</li>
                     <li>
                         <ul>
-                            <li>"andres-montanez/magallanes": "1.*"</li>
+                            <li>"andres-montanez/magallanes": "1.0.*"</li>
                         </ul>
                     </li>
                     <li>}</li>
