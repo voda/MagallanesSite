@@ -5,7 +5,7 @@
     </p>
 
     <p>
-    Every custom task must be stored in your <em>.mage/tasks</em> directory. The Class can have any valid name, and extend the <strong>Mage\Task\AbstractTask</strong> class.
+    Every custom task must be stored in your <em>.mage/tasks</em> directory. The Class can have any valid name, and extend the <strong>Mage\Task\AbstractTask</strong> class and be inside the <strong>Task</strong> namespace.
     <br />
     Then you have to implement two methods:
     <ul>
