@@ -48,7 +48,7 @@
                             </li>
                             <li><span class="parameter">tasks:</span>
                                 <ul>
-                                    <li><span class="parameter">on-deloy:</span>
+                                    <li><span class="parameter">on-deploy:</span>
                                         <ul>
                                             <li><span class="parameter">-</span> custom-cache-warmup</li>
                                         </ul>
