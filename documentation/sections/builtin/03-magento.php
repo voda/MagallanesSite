@@ -4,7 +4,7 @@
     The following tasks are available for usage with <strong>Magento</strong>:
     <ul>
         <li><strong>magento/clear-cache</strong> - Clears Cache.</li>
-        <li><strong>symfony2/clear-full-page-cache</strong> - Clears Full Page Cache</li>
+        <li><strong>magento/clear-full-page-cache</strong> - Clears Full Page Cache.</li>
     </ul>
 
     This commands are executed in the local environment, not on the hosts.

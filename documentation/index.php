@@ -32,6 +32,7 @@
                 <li><a href="#builtin-scm">SCM - Software Change Manager</a></li>
                 <li><a href="#builtin-symfony2">Symfony 2</a></li>
                 <li><a href="#builtin-magento">Magento</a></li>
+                <li><a href="#builtin-composer">Composer</a></li>
             </ul>
 
             <h3>Cookbook</h3>
@@ -114,6 +115,10 @@
             <br />
 
             <?php include 'sections/builtin/03-magento.php'; ?>
+
+            <br />
+
+            <?php include 'sections/builtin/04-composer.php'; ?>
 
             <!-- Cookbook -->
 

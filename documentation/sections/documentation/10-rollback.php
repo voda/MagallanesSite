@@ -40,5 +40,21 @@
         When a rollback is executed, the tasks you have defined are skipped unless you implement the <strong>Mage\Task\Releases\RollbackAware</strong> interface.
     </p>
 
+    <p>
+        It's a common case when you deploy and the app fails, dreadfully fails, so you have to rollback. Ok, we have seen that that is easy. But you now have a broken release at "index 0". With the flag <em>--deleteCurrent</em> on the rollback command, you can delete that broken release.
+    </p>
+
+    <p class="bash">
+        <span class="command-mage">mage</span> releases rollback --release=<span class="command-string">-1</span> to:<span class="command-string">production</span> --deleteCurrent<br />
+    </p>
+
+    <p>
+        One last thing. A shortcut. Instead of calling the <em>release rollback --release=XYZ</em> command, you can just use <em>rollback XYZ</em>, it will be just the same, it's just a shortcut.
+    </p>
+
+    <p class="bash">
+        <span class="command-mage">mage</span>rollback <span class="command-string">-1</span> to:<span class="command-string">production</span> --deleteCurrent<br />
+    </p>
+
     <br />
 </div>
