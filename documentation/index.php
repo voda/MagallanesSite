@@ -38,6 +38,7 @@
             <h3>Cookbook</h3>
             <ul class="menu">
                 <li><a href="#cookbook-custom-tasks">Custom Tasks</a></li>
+                <li><a href="#cookbook-custom-commands">Custom Commands</a></li>
                 <li><a href="#cookbook-per-host-config">Per Host Configuration</a></li>
                 <li><a href="#cookbook-task-configuration">Task Configuration</a></li>
             </ul>
@@ -127,6 +128,10 @@
             <h1>Cookbook</h1>
 
             <?php include 'sections/cookbook/01-custom-tasks.php'; ?>
+
+            <br />
+
+            <?php include 'sections/cookbook/01-custom-commands.php'; ?>
 
             <br />
 
