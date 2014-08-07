@@ -7,7 +7,6 @@ use Symfony\Component\Finder\Finder;
 $iterator = Finder::create()
     ->files()
     ->name('*.php')
-    ->notName('spyc.php')
     ->in($dir = '/var/www/magallanes/Magallanes/Mage')
 ;
 
