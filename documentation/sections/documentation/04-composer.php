@@ -10,10 +10,10 @@
             <li>{</li>
             <li>
                 <ul>
-                    <li>"require": {</li>
+                    <li>"require-dev": {</li>
                     <li>
                         <ul>
-                            <li>"andres-montanez/magallanes": "1.0.*"</li>
+                            <li>"andres-montanez/magallanes": "~1.0.1"</li>
                         </ul>
                     </li>
                     <li>}</li>
@@ -28,7 +28,7 @@
     </p>
 
     <p class="bash">
-        <span class="command-mage">php composer</span> update
+        <span class="command-mage">php composer</span> update andres-montanez/magallanes
     </p>
 
     <br />
