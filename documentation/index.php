@@ -148,7 +148,7 @@
         <div class="clear"></div>
 
         <div id="footer">
-            Magallanes is an open source tool developed and currently maintained by <a target="_blank" href="http://andresmontanez.com">Andr&eacute;s Monta&ntilde;ez</a> (among many other <a target="_blank" href="https://github.com/andres-montanez/Magallanes/contributors">contributors</a>) and completely written in <a target="_blank" href="http://php.net">PHP</a>.<br />
+            Magallanes is an open source tool developed by <a target="_blank" href="http://andresmontanez.com">Andr&eacute;s Monta&ntilde;ez</a>, and currently maintained by <a target="_blank" href="https://github.com/eps90">Kuba Turek</a> and <a target="_blank" href="https://github.com/andres-montanez">Andr&eacute;s Monta&ntilde;ez</a> (among many other <a target="_blank" href="https://github.com/andres-montanez/Magallanes/contributors">contributors</a>) and completely written in <a target="_blank" href="http://php.net">PHP</a>.<br />
             Special thanks to my team mates in <a target="_blank" href="http://acilia.es">Acilia Internet</a> for they continued support, ideas, and challenges that made this tool come to be.
         </div>
 
