@@ -53,7 +53,7 @@
     </p>
 
     <p class="bash">
-        <span class="command-mage">mage</span>rollback <span class="command-string">-1</span> to:<span class="command-string">production</span> --deleteCurrent<br />
+        <span class="command-mage">mage</span> rollback <span class="command-string">-1</span> to:<span class="command-string">production</span> --deleteCurrent<br />
     </p>
 
     <br />
